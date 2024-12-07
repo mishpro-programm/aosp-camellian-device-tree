@@ -1,4 +1,4 @@
-# Android device tree for Xiaomi missi (missi)
+# Android device tree for Xiaomi camellian (MIUI 14.0.5 TKSRUXM)
 
 ```
 #
